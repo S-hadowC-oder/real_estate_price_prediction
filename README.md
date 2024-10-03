@@ -1,4 +1,5 @@
 Real Estate Price Prediction App
+
 This is a web-based application built using Python, Dash, and scikit-learn to predict real estate prices based on specific input features. The application uses a linear regression model to predict the price of a house in a specific unit area, depending on the following inputs:
 
 Distance to the nearest MRT station
